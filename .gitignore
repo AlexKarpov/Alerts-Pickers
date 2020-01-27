@@ -1,6 +1,14 @@
 
 # Created by https://www.gitignore.io/api/swift,macos
 
+### SPM
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
+.swiftpm/
+
 ### macOS ###
 *.DS_Store
 .AppleDouble
